@@ -12,4 +12,5 @@
 *.pyo
 *.swp
 *.class
+.class
 
