@@ -2,7 +2,7 @@ import java.io.{File, PrintWriter}
 
 import org.apache.spark.{SparkConf, SparkContext}
 // added to git vcs ..
-//Test git added again
+//commit only from ide
 
 object DriverClass1 {
   val conf =new SparkConf().setAppName("DriverClass1").setMaster("local[4]")
