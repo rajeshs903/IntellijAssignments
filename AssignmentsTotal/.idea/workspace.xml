@@ -2,132 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6882bf77-704d-4ee2-8ea4-751b087c7952" name="Default Changelist" comment="file commit from ide GUI - TEST">
-      <change beforePath="$PROJECT_DIR$/../LearningSpark" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningSpark" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/libraries/org_apache_spark_spark_core_2_11_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/libraries/org_apache_spark_spark_sql_2_11_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/modules/TestSparkScala1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/modules/testsparkscala1-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$4f2de26847d50bb7e858$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$4f2de26847d50bb7e858.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$4f2de26847d50bb7e858.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$63cb968d82d74d87fa5c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$63cb968d82d74d87fa5c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$63cb968d82d74d87fa5c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$7b9a17dc5675a68556e5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$7b9a17dc5675a68556e5.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$7b9a17dc5675a68556e5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$d0e12c27e01121863a23$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$d0e12c27e01121863a23.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/config-classes/$d0e12c27e01121863a23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/default/testsparkscala1-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/default/testsparkscala1-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-testsparkscala1-build-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/default/testsparkscala1$sources/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/default/testsparkscala1$sources/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/default/testsparkscala1_2.12/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/default/testsparkscala1_2.12/0.1/resolved.xml.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1$sources-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/default-testsparkscala1_2.12-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/update/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestSparkScala1/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/DriverClass1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/DriverClass1.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -184,14 +60,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scala" value="819" />
-          <entry key="txt" value="36" />
+          <entry key="scala" value="822" />
+          <entry key="txt" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Scala" value="819" />
+          <entry key="PLAIN_TEXT" value="37" />
+          <entry key="Scala" value="822" />
         </counts>
       </usages-collector>
     </session>
@@ -210,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/DriverClass1.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="140">
+              <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -291,7 +167,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536999833732" />
+    <property name="SearchEverywhereHistoryKey" value=".gitignore&#9;null&#9;null" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537002659091" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -378,8 +255,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +271,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
       <window_info anchor="bottom" id="SBT Console" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
@@ -464,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/DriverClass1.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="140">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
