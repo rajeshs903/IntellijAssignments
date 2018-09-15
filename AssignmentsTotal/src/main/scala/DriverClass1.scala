@@ -1,7 +1,7 @@
 import java.io.{File, PrintWriter}
 
 import org.apache.spark.{SparkConf, SparkContext}
-
+// added to git vcs
 object DriverClass1 {
   val conf =new SparkConf().setAppName("DriverClass1").setMaster("local[4]")
   val sc=new SparkContext(conf)
