@@ -11,5 +11,5 @@
 *.pyc
 *.pyo
 *.swp
-
+*.class
 
