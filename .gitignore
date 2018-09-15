@@ -1,4 +1,15 @@
 #ignore the xml and xslt files
-.xsl
-.XSLT
-.CSS
+*.xsl
+*.XSLT
+*.CSS
+.idea
+.idea/
+.project
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.pyo
+*.swp
+
+
