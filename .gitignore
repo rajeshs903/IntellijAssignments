@@ -1,4 +1,4 @@
 #ignore the xml and xslt files
 .xsl
-.xslt
-.css
+.XSLT
+.CSS
