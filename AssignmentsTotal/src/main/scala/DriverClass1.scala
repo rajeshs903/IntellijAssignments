@@ -47,3 +47,5 @@ val result =fileRDD.reduce((x,y)=> (x+y))
     println(result/fileRDD.count())
   }
 }
+
+//test
