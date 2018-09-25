@@ -1,3 +1,0 @@
-object SparkSQL_DriverClass {
-
-}
