@@ -37,7 +37,7 @@ object Spark_SQL_DriverClass1 {
       (x(0).toInt,c)
     })
 
-    val ordersCustomerJoin= ordersMap.rightOuterJoin(customersMap)
+    val ordersCustomerJoin= ordersMap.leftOuterJoin(customersMap)
 
     val temp1 =ordersCustomerJoin.first()
     println("temp1 "+temp1)
@@ -47,7 +47,7 @@ println("ordersCustomerJoin 10 results \n")
 
     //now filter out the customers who never placed the orders
 
-    val customersWhoNeverPlacedOrders = ordersCustomerJoin.filter(x=> x._2._1 ==None).map(x=>x._2._2)
+    val customersWhoNeverPlacedOrders = ordersCustomerJoin.filter(x=> x._2._2 ==None).map(x=>x._1)
     println("ordersCustomerJoin.count= "+ordersCustomerJoin.count)
     println("customersWhoNeverPlacedOrders.count= "+customersWhoNeverPlacedOrders.count)
 
