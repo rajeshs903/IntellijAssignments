@@ -27,3 +27,4 @@ val ordersCustomerJoin= ordersMap.rightOuterJoin(customersMap)
 val temp1 =ordersCustomerJoin.first
 
 //val customersWhoNeverPlacedOrders = ordersCustomerJoin.filter(x=> x._2._1 ==None).map(x=>x._2._2)
+//
